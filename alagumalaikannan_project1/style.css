@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+}
+/* .nprcet{
+    width: 200px;
+    height: 200px;
+} */
+table, tr, th, td, caption{
+border: 1px solid #eee;
+font-family: 'Courier New', Courier, monospace;
+border-collapse: collapse;
+padding: 0.5rem;
+width:1000px;}
